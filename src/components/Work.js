@@ -27,7 +27,7 @@ const Work = () => {
         <div className="grid gap-4 grid-cols-2 sm:grid-cols-3 md:gap-6 xl:gap-8">
           <div>
             <a
-              href="https://netgpt-b774f.web.app/browse"
+              href="https://streamify-gpt-5b56e.web.app/"
               className="group h-48  overflow-hidden rounded-lg shadow-lg md:h-80"
             >
               <img
