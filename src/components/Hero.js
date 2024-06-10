@@ -47,7 +47,7 @@ const Hero = () => {
             group-hover:duration-200 animation-tilt"
           ></div> */}
           <a
-            href="https://drive.google.com/file/d/14ZHxPWp85b19POT0EH4hcqnASul2Ir0Z/view?usp=drive_link "
+            href="https://drive.google.com/file/d/1fakLxVk2XHLiwU1ez0GpwqZsJl0_qI7J/view?usp=sharing "
             title="Download cv"
             role="button"
             className="w-[190px] h-[60px] relative inline-flex

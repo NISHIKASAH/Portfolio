@@ -19,7 +19,7 @@ const Work = () => {
             </h2>
             <p className="text-gray-500">
               These are my Latest project(
-              <span>Click on Image to View Project Live</span>)
+              <span>Click on Image to know more about my projects</span>)
             </p>
             <p>For github click on SourceCode</p>
           </div>
@@ -27,11 +27,11 @@ const Work = () => {
         <div className="grid gap-4 grid-cols-2 sm:grid-cols-3 md:gap-6 xl:gap-8">
           <div>
             <a
-              href="https://streamify-gpt-5b56e.web.app/"
+              href="https://github.com/NISHIKASAH/SociallyApp-photogram"
               className="group h-48  overflow-hidden rounded-lg shadow-lg md:h-80"
             >
               <img
-                src={netflixgpt}
+                src={socialapp}
                 loading="lazy"
                 alt="project2"
                 className="h-full w-full
@@ -39,14 +39,14 @@ const Work = () => {
               />
             </a>
             <div className="mt-[-20]">
-              <a href="https://github.com/NISHIKASAH/streamifygpt">
+              <a href="https://github.com/NISHIKASAH/SociallyApp-photogram">
                 <span>sourcecode</span>
               </a>
             </div>
           </div>
           <div>
             <a
-              href="https://drive.google.com/file/d/1wUpF6QU-6M4EvKmN1IuhyTju-YrPK3L6/view?usp=sharing"
+              href="https://github.com/NISHIKASAH/CodeSync"
               className="group h-48  overflow-hidden rounded-lg shadow-lg md:h-80"
             >
               <img
@@ -65,6 +65,26 @@ const Work = () => {
           </div>
           <div>
             <a
+              href="https://github.com/NISHIKASAH/NetflixGPT4"
+              className="group h-48  overflow-hidden rounded-lg shadow-lg md:h-80"
+            >
+              <img
+                src={netflixgpt}
+                loading="lazy"
+                alt="project2"
+                className="h-full w-full
+                 object-cover object-center transition duration-200 group-hover:scale-110"
+              />
+            </a>
+
+            <div className="mt-[-20]">
+              <a href="https://github.com/NISHIKASAH/NetflixGPT4">
+                <span>sourcecode</span>
+              </a>
+            </div>
+          </div>
+          <div>
+            <a
               href="https://youtubeclone57.netlify.app/"
               className="group h-48  overflow-hidden rounded-lg shadow-lg md:h-80"
             >
@@ -76,28 +96,8 @@ const Work = () => {
                  object-cover object-center transition duration-200 group-hover:scale-110"
               />
             </a>
-
             <div className="mt-[-20]">
               <a href="https://github.com/NISHIKASAH/youtubeClone">
-                <span>sourcecode</span>
-              </a>
-            </div>
-          </div>
-          <div>
-            <a
-              href="/"
-              className="group h-48  overflow-hidden rounded-lg shadow-lg md:h-80"
-            >
-              <img
-                src={socialapp}
-                loading="lazy"
-                alt="project2"
-                className="h-full w-full
-                 object-cover object-center transition duration-200 group-hover:scale-110"
-              />
-            </a>
-            <div className="mt-[-20]">
-              <a href="https://github.com/NISHIKASAH/sociallyAAP">
                 <span className>sourcecode</span>
               </a>
             </div>

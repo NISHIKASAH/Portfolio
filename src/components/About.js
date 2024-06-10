@@ -68,6 +68,11 @@ const About = () => {
               </div>
               <div className="bg-[#333333]/40 p-2 rounded-lg">
                 <p className="md:text-base text-xs">
+                  <span>Redux</span>
+                </p>
+              </div>
+              <div className="bg-[#333333]/40 p-2 rounded-lg">
+                <p className="md:text-base text-xs">
                   <span>Tailwind</span>
                 </p>
               </div>
