@@ -10,9 +10,9 @@ const Experience = () => {
         <p>HCL Techology</p>
         <p className="text-gray-400">(Jan 2023-May 2023)</p>
         <p className="text-gray-500">
-          As an intern at HCL Tech, I focused on frontend development, crafting
-          an application to manage vehicle tracking and taxation for optimized
-          traffic flow.
+          As an intern at HCL Tech, I focused on frontend and database of backend development with mysql, crafting
+          application to manage vehicle tracking and taxation for optimized
+          traffic flow with tech stack - HTML ,CSS ,  Javascript , Mysql ,Php 
         </p>
       </div>
     </div>
