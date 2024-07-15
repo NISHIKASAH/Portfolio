@@ -16,7 +16,7 @@ const Hero = () => {
         </p>
         <h1 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6">
           <TypeAnimation
-            sequence={["Frontend dev", 1000, "Programmer", 1000]}
+            sequence={["FullStack Developer", 1000, "Programmer", 1000]}
             wrapper="span"
             speed={50}
             repeat={Infinity}
@@ -47,7 +47,7 @@ const Hero = () => {
             group-hover:duration-200 animation-tilt"
           ></div> */}
           <a
-            href="https://drive.google.com/file/d/1fakLxVk2XHLiwU1ez0GpwqZsJl0_qI7J/view?usp=sharing"
+            href="https://drive.google.com/file/d/1t9oIBPCkmGr1A1_R_xRFgUNOUVJehc6f/view?usp=sharing"
             title="Download cv"
             role="button"
             className="w-[190px] h-[60px] relative inline-flex
